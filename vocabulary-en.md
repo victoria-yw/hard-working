@@ -68,3 +68,35 @@
 - 31. continuum
 - 32. continuity
 - 33. celled
+
+## 2026-04-20
+页码：P.31-50
+
+- 1. tuna
+- 2. evolution ⚠️ /ˌevəˈluːʃn/
+- 3. specific ⚠️ /spəˈsɪfɪk/
+- 4. ritual
+- 5. performance
+- 6. device
+- 7. throughout
+- 8. scale
+- 9. hydrogen
+- 10. helium
+- 11. aquifer
+- 12. revolution
+- 13. metallic
+- 14. stimulate
+- 15. simulate
+- 16. irritate
+- 17. irrigate
+- 18. subject
+- 19. intensify
+- 20. differentiate
+- 21. dietary
+- 22. fungi
+- 23. lichen
+- 24. comparable
+- 25. comparatively
+- 26. texture
+- 27. textile
+- 28. subsurface

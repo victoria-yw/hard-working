@@ -72,3 +72,38 @@
 | 31  | continuum     | 连续体；连续统；统一体 /kənˈtɪnjuəm/ |
 | 32  | continuity    | 连续性；连贯性；一致性 /ˌkɑːntɪˈnjuːəti/ |
 | 33  | celled        | 有细胞的；有小室的（常与前缀连用） /seld/ |
+
+
+## 2026-04-20
+页码：P.31-50
+
+|     | 单词            | 含义                              |
+| --- | ------------- | ------------------------------- |
+| 1   | tuna | 金枪鱼 /ˈtuːnə/ |
+| 2   | evolution | 进化；演变 ⚠️ /ˌevəˈluːʃn/ |
+| 3   | specific | 具体的；特定的 ⚠️ /spəˈsɪfɪk/ |
+| 4   | ritual | 仪式的；例行的；仪式 /ˈrɪtʃuəl/ |
+| 5   | performance | 执行 /pərˈfɔːrməns/ |
+| 6   | device | 设计；策略 /dɪˈvaɪs/ |
+| 7   | throughout | 遍及；自始至终；到处 /θruːˈaʊt/ |
+| 8   | scale | 鳞片；缩放 /skeɪl/ |
+| 9   | hydrogen | 氢 /ˈhaɪdrədʒən/ |
+| 10  | helium | 氦 /ˈhiːliəm/ |
+| 11  | aquifer | 含水层；蓄水层 /ˈækwəfər/ |
+| 12  | revolution | 革命；旋转；巨变 /ˌrevəˈluːʃn/ |
+| 13  | metallic | 金属的；含金属的 /məˈtælɪk/ |
+| 14  | stimulate | 刺激；促进；激发 /ˈstɪmjuleɪt/ |
+| 15  | simulate | 模拟；模仿；假装 /ˈsɪmjuleɪt/ |
+| 16  | irritate | 激怒；刺激；使过敏 /ˈɪrɪteɪt/ |
+| 17  | irrigate | 灌溉；冲洗 /ˈɪrɪɡeɪt/ |
+| 18  | subject | 主题；学科；使服从；易受…影响 /ˈsʌbdʒɪkt/ |
+| 19  | intensify | 增强；加剧；强化 /ɪnˈtensɪfaɪ/ |
+| 20  | differentiate | 区分；区别；分化 /ˌdɪfəˈrenʃieɪt/ |
+| 21  | dietary | 饮食的；饮食相关的 /ˈdaɪəteri/ |
+| 22  | fungi | 真菌；霉菌 /ˈfʌndʒaɪ/ |
+| 23  | lichen | 地衣 /ˈlaɪkən/ |
+| 24  | comparable | 可比较的；类似的 /ˈkɑːmpərəbl/ |
+| 25  | comparatively | 比较地；相对地 /kəmˈpærətɪvli/ |
+| 26  | texture | 质地；纹理；结构 /ˈtekstʃər/ |
+| 27  | textile | 纺织品；纺织的 /ˈtekstaɪl/ |
+| 28  | subsurface | 地下的；地表下的 /ˌsʌbˈsɜːrfɪs/ |
