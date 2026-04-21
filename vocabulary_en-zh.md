@@ -79,31 +79,84 @@
 
 |     | 单词            | 含义                              |
 | --- | ------------- | ------------------------------- |
-| 1   | tuna | 金枪鱼 /ˈtuːnə/ |
-| 2   | evolution | 进化；演变 ⚠️ /ˌevəˈluːʃn/ |
-| 3   | specific | 具体的；特定的 ⚠️ /spəˈsɪfɪk/ |
-| 4   | ritual | 仪式的；例行的；仪式 /ˈrɪtʃuəl/ |
-| 5   | performance | 执行 /pərˈfɔːrməns/ |
-| 6   | device | 设计；策略 /dɪˈvaɪs/ |
-| 7   | throughout | 遍及；自始至终；到处 /θruːˈaʊt/ |
-| 8   | scale | 鳞片；缩放 /skeɪl/ |
-| 9   | hydrogen | 氢 /ˈhaɪdrədʒən/ |
-| 10  | helium | 氦 /ˈhiːliəm/ |
-| 11  | aquifer | 含水层；蓄水层 /ˈækwəfər/ |
-| 12  | revolution | 革命；旋转；巨变 /ˌrevəˈluːʃn/ |
-| 13  | metallic | 金属的；含金属的 /məˈtælɪk/ |
-| 14  | stimulate | 刺激；促进；激发 /ˈstɪmjuleɪt/ |
-| 15  | simulate | 模拟；模仿；假装 /ˈsɪmjuleɪt/ |
-| 16  | irritate | 激怒；刺激；使过敏 /ˈɪrɪteɪt/ |
-| 17  | irrigate | 灌溉；冲洗 /ˈɪrɪɡeɪt/ |
-| 18  | subject | 主题；学科；使服从；易受…影响 /ˈsʌbdʒɪkt/ |
-| 19  | intensify | 增强；加剧；强化 /ɪnˈtensɪfaɪ/ |
+| 1   | tuna          | 金枪鱼 /ˈtuːnə/ |
+| 2   | evolution     | 进化；演变 ⚠️ /ˌevəˈluːʃn/ |
+| 3   | specific      | 具体的；特定的 ⚠️ /spəˈsɪfɪk/ |
+| 4   | ritual        | 仪式的；例行的；仪式 /ˈrɪtʃuəl/ |
+| 5   | performance   | 执行 /pərˈfɔːrməns/ |
+| 6   | device        | 设计；策略 /dɪˈvaɪs/ |
+| 7   | throughout    | 遍及；自始至终；到处 /θruːˈaʊt/ |
+| 8   | scale         | 鳞片；缩放 /skeɪl/ |
+| 9   | hydrogen      | 氢 /ˈhaɪdrədʒən/ |
+| 10  | helium        | 氦 /ˈhiːliəm/ |
+| 11  | aquifer       | 含水层；蓄水层 /ˈækwəfər/ |
+| 12  | revolution    | 革命；旋转 /ˌrevəˈluːʃn/ |
+| 13  | metallic      | 金属的；含金属的 /məˈtælɪk/ |
+| 14  | stimulate     | 刺激；促进；激发 /ˈstɪmjuleɪt/ |
+| 15  | simulate      | 模拟；模仿；假装 /ˈsɪmjuleɪt/ |
+| 16  | irritate      | 激怒；刺激；使过敏 /ˈɪrɪteɪt/ |
+| 17  | irrigate      | 灌溉；冲洗 /ˈɪrɪɡeɪt/ |
+| 18  | subject       | 使服从；易受…影响；主题 /ˈsʌbdʒɪkt/ |
+| 19  | intensify     | 增强；加剧；强化 /ɪnˈtensɪfaɪ/ |
 | 20  | differentiate | 区分；区别；分化 /ˌdɪfəˈrenʃieɪt/ |
-| 21  | dietary | 饮食的；饮食相关的 /ˈdaɪəteri/ |
-| 22  | fungi | 真菌；霉菌 /ˈfʌndʒaɪ/ |
-| 23  | lichen | 地衣 /ˈlaɪkən/ |
-| 24  | comparable | 可比较的；类似的 /ˈkɑːmpərəbl/ |
+| 21  | dietary       | 饮食的；饮食相关的 /ˈdaɪəteri/ |
+| 22  | fungi         | 真菌；霉菌 /ˈfʌndʒaɪ/ |
+| 23  | lichen        | 地衣 /ˈlaɪkən/ |
+| 24  | comparable    | 可比较的；类似的 /ˈkɑːmpərəbl/ |
 | 25  | comparatively | 比较地；相对地 /kəmˈpærətɪvli/ |
-| 26  | texture | 质地；纹理；结构 /ˈtekstʃər/ |
-| 27  | textile | 纺织品；纺织的 /ˈtekstaɪl/ |
-| 28  | subsurface | 地下的；地表下的 /ˌsʌbˈsɜːrfɪs/ |
+| 26  | texture       | 质地；纹理；结构 /ˈtekstʃər/ |
+| 27  | textile       | 纺织品；纺织的 /ˈtekstaɪl/ |
+| 28  | subsurface    | 地下的；地表下的 /ˌsʌbˈsɜːrfɪs/ |
+
+
+
+## 2026-04-21
+页码：P.51-65
+
+|     | 单词            | 含义                              |
+| --- | ------------- | ------------------------------- |
+| 1   | recharge      | 补给；再充电 /ˌriːˈtʃɑːrdʒ/ |
+| 2   | evaporate     | 蒸发；消失 /ɪˈvæpəreɪt/ |
+| 3   | evaporation   | 蒸发；消失 /ɪˌvæpəˈreɪʃn/ |
+| 4   | rental        | 租金；租赁；租赁的 /ˈrentl/ |
+| 5   | preform       | 履行；预先形成 /ˌpriːˈfɔːrm/ |
+| 6   | machinery     | 机械；机构；机器运转 /məˈʃiːnəri/ |
+| 7   | crystallize   | 结晶；具体化 /ˈkrɪstəlaɪz/ |
+| 8   | chimpanzee    | 黑猩猩 /ˌtʃɪmpænˈziː/ |
+| 9   | parlor        | 客厅；接待室；营业室 /ˈpɑːrlər/ |
+| 10  | distinct      | 清晰的；明显的；有区别的 /dɪˈstɪŋkt/ |
+| 11  | distinctive   | 独特的；有特色的 /dɪˈstɪŋktɪv/ |
+| 12  | distinction   | 区别；差别；卓越 /dɪˈstɪŋkʃn/ |
+| 13  | bead          | 珠子；水珠 /biːd/ |
+| 14  | tulip         | 郁金香 /ˈtuːlɪp/ |
+| 15  | terrestrial   | 陆地的；地球的 /təˈrestriəl/ |
+| 16  | migratory     | 迁移的；迁徙的 /ˈmaɪɡrətɔːri/ |
+| 17  | pueblo        | 普韦布洛村落；印第安村庄 /ˈpwebloʊ/ |
+| 18  | pollutant     | 污染物 /pəˈluːtənt/ |
+| 19  | novelty       | 新奇；新颖；新奇事物 /ˈnɑːvlti/ |
+| 20  | preindustrial | 工业化前的 /ˌpriːɪnˈdʌstriəl/ |
+| 21  | bacterial     | 细菌的 /bækˈtɪriəl/ |
+| 22  | corresponding | 相应的；对应的；符合的 /ˌkɔːrəˈspɑːndɪŋ/ |
+| 23  | respondent    | 应答者；被告 /rɪˈspɑːndənt/ |
+| 24  | sequence      | 序列；顺序；连续 ⚠️ /ˈsiːkwəns/ |
+| 25  | potter        | 陶工；制陶工人 /ˈpɑːtər/ |
+| 26  | potash        | 钾碱；碳酸钾 /ˈpɑːtæʃ/ |
+| 27  | mythical      | 神话的；虚构的 /ˈmɪθɪkl/ |
+| 28  | gar           | 雀鳝；长矛 /ɡɑːr/ |
+| 29  | cretaceous    | 白垩纪的 /krəˈteɪʃəs/ |
+| 30  | capitalist    | 资本家；资本主义的 /ˈkæpɪtəlɪst/ |
+| 31  | Sumerian      | 苏美尔人；苏美尔的 /suːˈmɪriən/ |
+| 32  | disprove      | 反驳；证明……有误 /ˌdɪsˈpruːv/ |
+| 33  | tribe         | 部落；种族 /traɪb/ |
+| 34  | groundwater   | 地下水 /ˈɡraʊndwɔːtər/ |
+| 35  | import        | 进口；输入 ⚠️n. /ˈɪmpɔːrt/ v. /ɪmˈpɔːrt/ |
+| 36  | export        | 出口；输出 ⚠️n. /ˈekspɔːrt/ v. /ɪkˈspɔːrt/ |
+| 37  | depict        | 描述；描绘 /dɪˈpɪkt/ |
+| 38  | atom          | 原子 ⚠️ /ˈætəm/ |
+| 39  | aurora        | 极光；曙光 ⚠️ /əˈrɔːrə/ |
+| 40  | whereas       | 然而；鉴于 /ˌwerˈæz/ |
+| 41  | venus         | 金星 /ˈviːnəs/ |
+| 42  | rite          | 仪式；典礼 /raɪt/ |
+| 43  | presidency    | 总统职位；任期 /ˈprezɪdənsi/ |
+| 44  | presidential  | 总统的；总统制的 /ˌprezɪˈdenʃl/ |
+| 45  | mineral       | 矿物；矿物质；矿物的 /ˈmɪnərəl/ |

@@ -100,3 +100,53 @@
 - 26. texture
 - 27. textile
 - 28. subsurface
+
+
+## 2026-04-21
+页码：P.51-65
+
+- 1. recharge
+- 2. evaporate
+- 3. evaporation
+- 4. rental
+- 5. preform
+- 6. machinery
+- 7. crystallize
+- 8. chimpanzee
+- 9. parlor
+- 10. distinct
+- 11. distinctive
+- 12. distinction
+- 13. bead
+- 14. tulip
+- 15. terrestrial
+- 16. migratory
+- 17. pueblo
+- 18. pollutant
+- 19. novelty
+- 20. preindustrial
+- 21. bacterial
+- 22. corresponding
+- 23. respondent
+- 24. sequence ⚠️ /ˈsiːkwəns/
+- 25. potter
+- 26. potash
+- 27. mythical
+- 28. gar
+- 29. cretaceous
+- 30. capitalist
+- 31. Sumerian
+- 32. disprove
+- 33. tribe
+- 34. groundwater
+- 35. import ⚠️n. /ˈɪmpɔːrt/ v. /ɪmˈpɔːrt/ |
+- 36. export ⚠️n. /ˈekspɔːrt/ v. /ɪkˈspɔːrt/ |
+- 37. depict
+- 38. atom ⚠️ /ˈætəm/
+- 39. aurora ⚠️ /əˈrɔːrə/
+- 40. whereas
+- 41. venus
+- 42. rite
+- 43. presidency
+- 44. presidential
+- 45. mineral
