@@ -160,3 +160,50 @@
 | 43  | presidency    | 总统职位；任期 /ˈprezɪdənsi/ |
 | 44  | presidential  | 总统的；总统制的 /ˌprezɪˈdenʃl/ |
 | 45  | mineral       | 矿物；矿物质；矿物的 /ˈmɪnərəl/ |
+
+## 2026-04-26
+页码：P.66-90
+
+|     | 单词               | 含义                              |
+| --- | ---------------- | ------------------------------- |
+| 1   | livestock        | 家畜；牲畜 /ˈlaɪvstɑːk/ |
+| 2   | sea cucumber     | 海参 /siː ˈkjuːkʌmbər/ |
+| 3   | canopy           | 树冠；顶棚；天篷 /ˈkænəpi/ |
+| 4   | appeal           | 吸引；呼吁；上诉；吸引力 /əˈpiːl/ |
+| 5   | sanctuary        | 庇护所；圣地；禁猎区 /ˈsæŋktʃueri/ |
+| 6   | nouveau          | 新式的；新潮的 /nuːˈvoʊ/ |
+| 7   | compound         | 复合物；大院；复合；加剧 ⚠️ n./ˈkɑːmpaʊnd/ v./kəmˈpaʊnd/ |
+| 8   | ancestor         | 祖先；祖宗 ⚠️ /ˈænsestər/ |
+| 9   | alder            | 桤木 /ˈɔːldər/ |
+| 10  | string           | 细绳；琴弦；一串 /strɪŋ/ |
+| 11  | sheet            | 薄片；床单；一张 /ʃiːt/ |
+| 12  | worksheet        | 工作表；作业单 /ˈwɜːrkshiːt/ |
+| 13  | disproportionate | 不成比例的；不均衡的 /ˌdɪsprəˈpɔːrʃənət/ |
+| 14  | perspective      | 视角；观点；透视 /pərˈspektɪv/ |
+| 15  | hominid          | 原始人类；人科动物 /ˈhɑːmɪnɪd/ |
+| 16  | apprentice       | 学徒；实习生 /əˈprentɪs/ |
+| 17  | temperate        | 温和的；温带的 /ˈtempərət/ |
+| 18  | representative   | 代表；典型的 /ˌreprɪˈzentətɪv/ |
+| 19  | pore             | 毛孔；仔细研读 /pɔːr/ |
+| 20  | porous           | 多孔的；透气的 /ˈpɔːrəs/ |
+| 21  | porosity         | 多孔性；孔隙度 /pɔːˈrɑːsəti/ |
+| 22  | hind             | 后部的；后腿的 /haɪnd/ |
+| 23  | gill             | 鳃；腮片 /ɡɪl/ |
+| 24  | cultivate        | 培育；耕作；培养 /ˈkʌltɪveɪt/ |
+| 25  | cemetery         | 公墓；陵园 ⚠️ /ˈseməteri/ |
+| 26  | virtually        | 几乎；实际上 /ˈvɜːrtʃuəli/ |
+| 27  | spontaneous      | 自发的；自然的 /spɑːnˈteɪniəs/ |
+| 28  | semiarid         | 半干旱的 /ˌsemiˈerɪd/ |
+| 29  | arid             | 干旱的；贫瘠的 /ˈærɪd/ |
+| 30  | plankton         | 浮游生物 /ˈplæŋktən/ |
+| 31  | mantle           | 地幔；斗篷；覆盖层 /ˈmæntl/ |
+| 32  | ceremony         | 典礼；仪式；礼节 /ˈserəmoʊni/ |
+| 33  | ceremonial       | 仪式的；礼仪的 /ˌserəˈmoʊniəl/ |
+| 34  | animation        | 动画；活力；生气 /ˌænɪˈmeɪʃn/ |
+| 35  | visual           | 视觉的；视力的 /ˈvɪʒuəl/ |
+| 36  | refer            | 参考；涉及；提及 /rɪˈfɜːr/ |
+| 37  | Missouri         | 密苏里州 /mɪˈzʊəri/ |
+| 38  | investigation    | 调查；侦查 /ɪnˌvestɪˈɡeɪʃn/ |
+| 39  | investment       | 投资；投入 /ɪnˈvestmənt/ |
+| 40  | investigator     | 调查员；侦查人员 /ɪnˈvestɪɡeɪtər/ |
+| 41  | investigate      | 调查；研究 /ɪnˈvestɪɡeɪt/ |

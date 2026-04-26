@@ -150,3 +150,50 @@
 - 43. presidency
 - 44. presidential
 - 45. mineral
+
+## 2026-04-26
+页码：P.66-90
+## 2026-04-26
+页码：P.66-90
+
+- 1. livestock
+- 2. sea cucumber
+- 3. canopy
+- 4. appeal
+- 5. sanctuary
+- 6. nouveau
+- 7. compound ⚠️ n. /ˈkɑːmpaʊnd/ v. /kəmˈpaʊnd/
+- 8. ancestor ⚠️ /ˈænsestər/
+- 9. alder
+- 10. string
+- 11. sheet
+- 12. worksheet
+- 13. disproportionate
+- 14. perspective
+- 15. hominid
+- 16. apprentice
+- 17. temperate
+- 18. representative
+- 19. pore
+- 20. porous
+- 21. porosity
+- 22. hind
+- 23. gill
+- 24. cultivate
+- 25. cemetery ⚠️ /ˈseməteri/
+- 26. virtually
+- 27. spontaneous
+- 28. semiarid
+- 29. arid
+- 30. plankton
+- 31. mantle
+- 32. ceremony
+- 33. ceremonial
+- 34. animation
+- 35. visual
+- 36. refer
+- 37. Missouri
+- 38. investigation
+- 39. investment
+- 40. investigator
+- 41. investigate
