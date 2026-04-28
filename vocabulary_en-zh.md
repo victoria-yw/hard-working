@@ -207,3 +207,118 @@
 | 39  | investment       | 投资；投入 /ɪnˈvestmənt/ |
 | 40  | investigator     | 调查员；侦查人员 /ɪnˈvestɪɡeɪtər/ |
 | 41  | investigate      | 调查；研究 /ɪnˈvestɪɡeɪt/ |
+
+## 2026-04-27
+页码：P.91-105	
+|     | 单词            | 含义                              |
+| --- | ------------- | ------------------------------- |
+| 1   | graze           | 放牧；擦伤 /ɡreɪz/ |
+| 2   | overgraze       | 过度放牧 /ˌoʊvərˈɡreɪz/ |
+| 3   | derive          | 源自；获得 /dɪˈraɪv/ |
+| 4   | Dakota          | 达科他 /dəˈkoʊtə/ |
+| 5   | barb            | 倒钩；伤人言辞 /bɑːrb/ |
+| 6   | anthropologist  | 人类学家 /ˌænθrəˈpɑːlədʒɪst/ |
+| 7   | agrarian        | 农业的；土地的 /əˈɡreriən/ |
+| 8   | symptom         | 症状；征兆 /ˈsɪmptəm/ |
+| 9   | symbol          | 象征；符号 /ˈsɪmbl/ |
+| 10  | sought          | 寻找；寻求 /sɔːt/ |
+| 11  | purpose         | 目的；意图 /ˈpɜːrpəs/ |
+| 12  | propose         | 提议；求婚 /prəˈpoʊz/ |
+| 13  | magnetosphere   | 磁层 /mæɡˈniːtəsfɪr/ |
+| 14  | intimate        | 亲密的；私密的 /ˈɪntɪmət/ |
+| 15  | imitate         | 模仿；效仿 /ˈɪmɪteɪt/ |
+| 16  | glaze           | 上釉；光滑表层 /ɡleɪz/ |
+| 17  | geometric       | 几何的 /ˌdʒiːəˈmetrɪk/ |
+| 18  | extract         | 提取；摘录 /ɪkˈstrækt/ |
+| 19  | extraction      | 提取；开采 /ɪkˈstrækʃn/ |
+| 20  | durable         | 耐用的；持久的 /ˈdʊrəbl/ |
+| 21  | crucial         | 至关重要的 /ˈkruːʃl/ |
+| 22  | molecule        | 分子 /ˈmɑːlɪkjuːl/ |
+| 23  | molecular       | 分子的 /məˈlekjələr/ |
+| 24  | collectively    | 集体地；共同地 /kəˈlektɪvli/ |
+| 25  | charcoal        | 木炭；炭笔 /ˈtʃɑːrkoʊl/ |
+| 26  | archaeopteryx   | 始祖鸟 /ˌɑːrkiˈɑːptərɪks/ |
+| 27  | acidic          | 酸性的 ⚠️ /əˈsɪdɪk/ |
+| 28  | acid            | 酸；酸性的 /ˈæsɪd/ |
+| 29  | account for     | 解释；占据 |
+| 30  | account(v.)     | 解释；认为 /əˈkaʊnt/ |
+| 31  | satire          | 讽刺 ⚠️ /ˈsætaɪər/ |
+| 32  | neolithic       | 新石器时代的 /ˌniːoʊˈlɪθɪk/ |
+| 33  | fluctuate       | 波动；起伏 /ˈflʌktʃueɪt/ |
+| 34  | drain           | 排水；耗尽 /dreɪn/ |
+| 35  | drainage        | 排水系统 /ˈdreɪnɪdʒ/ |
+| 36  | arrangement     | 安排；布置 /əˈreɪndʒmənt/ |
+| 37  | voyager         | 旅行者；航行者 /ˈvɔɪədʒər/ |
+| 38  | tract           | 大片土地；传单 /trækt/ |
+| 39  | revise          | 修订；复习 /rɪˈvaɪz/ |
+| 40  | repress         | 抑制；镇压 /rɪˈpres/ |
+| 41  | pterrosaur      | 翼龙 /ˈterəsɔːr/ |
+| 42  | mill            | 磨坊；工厂 /mɪl/ |
+| 43  | journeymen      | 熟练工人 /ˈdʒɜːrnɪmən/ |
+| 44  | gulf            | 海湾；鸿沟 /ɡʌlf/ |
+| 45  | excavate        | 挖掘；发掘 /ˈekskəveɪt/ |
+| 46  | engrave         | 雕刻；铭记 /ɪnˈɡreɪv/ |
+| 47  | cone            | 圆锥；松果 /koʊn/ |
+| 48  | armet           | 头盔 /ˈɑːrmet/ |
+| 49  | Antarctica      | 南极洲 /ænˈtɑːrktɪkə/ |
+| 50  | alter           | 改变；更改 /ˈɔːltər/ |
+| 51  | uniform         | 制服；统一的 /ˈjuːnɪfɔːrm/ |
+| 52  | twig            | 细枝；嫩枝 /twɪɡ/ |
+| 53  | terrain         | 地形；地势 /təˈreɪn/ |
+| 54  | terra           | 土地；大地 /ˈterə/ |
+
+## 2026-04-28
+页码：P.106-130	
+|     | 单词            | 含义                              |
+| --- | ------------- | ------------------------------- |
+| 1   | substantial     | 大量的；实质性的 /səbˈstænʃl/ |
+| 2   | speculation     | 猜测；投机 /ˌspekjuˈleɪʃn/ |
+| 3   | speculate       | 推测；猜测 /ˈspekjuleɪt/ |
+| 4   | specimen        | 样本；标本 /ˈspesɪmən/ |
+| 5   | seal            | 封印；海豹 /siːl/ |
+| 6   | sandstone       | 砂岩 /ˈsændstoʊn/ |
+| 7   | realist         | 现实主义者 /ˈriːəlɪst/ |
+| 8   | primate         | 灵长类动物；大主教 /ˈpraɪmeɪt/ |
+| 9   | precede         | 先于；领先 /prɪˈsiːd/ |
+| 10  | unprecedented   | 前所未有的 /ʌnˈpresɪdentɪd/ |
+| 11  | orchid          | 兰花 /ˈɔːrkɪd/ |
+| 12  | nucleus         | 核心；原子核 ⚠️ /ˈnuːkliəs/ |
+| 13  | molt            | 蜕皮；换毛 /moʊlt/ |
+| 14  | melt            | 融化；熔化 /melt/ |
+| 15  | moisture        | 水分；湿气 /ˈmɔɪstʃər/ |
+| 16  | Mesozoic        | 中生代 /ˌmesəˈzoʊɪk/ |
+| 17  | intrigue        | 密谋；迷住 /ɪnˈtriːɡ/ |
+| 18  | igneous         | 火成的；火山的 /ˈɪɡniəs/ |
+| 19  | hypothalamus    | 下丘脑 /ˌhaɪpoʊˈθæləməs/ |
+| 20  | figurine        | 小雕像；塑像 /ˌfɪɡjəˈriːn/ |
+| 21  | falcon          | 猎鹰；隼 /ˈfɔːlkən/ |
+| 22  | extent          | 范围；程度 /ɪkˈstent/ |
+| 23  | dispersal       | 扩散；分散 /dɪˈspɜːrsl/ |
+| 24  | delicate        | 脆弱的；精致的 /ˈdelɪkət/ |
+| 25  | latitude        | 纬度；自由度 /ˈlætɪtuːd/ |
+| 26  | altitude        | 海拔；高度 /ˈæltɪtuːd/ |
+| 27  | spin            | 旋转；纺纱 /spɪn/ |
+| 28  | reliance        | 依靠；依赖 /rɪˈlaɪəns/ |
+| 29  | phase           | 阶段；时期 /feɪz/ |
+| 30  | panel           | 面板；专家组 /ˈpænl/ |
+| 31  | odor            | 气味；臭味 /ˈoʊdər/ |
+| 32  | Norwegian       | 挪威的；挪威人 /nɔːrˈwiːdʒən/ |
+| 33  | legislation     | 立法；法规 /ˌledʒɪsˈleɪʃn/ |
+| 34  | interaction     | 相互作用；交流 /ˌɪntərˈækʃn/ |
+| 35  | interact        | 相互影响；互动 /ˌɪntərˈækt/ |
+| 36  | hinterland      | 内陆；腹地 /ˈhɪntərlənd/ |
+| 37  | Harlem          | 哈莱姆（纽约街区）/ˈhɑːrləm/ |
+| 38  | freight         | 货运；货物 /freɪt/ |
+| 39  | forage          | 觅食；草料 /ˈfɔːrɪdʒ/ |
+| 40  | finch           | 雀类小鸟 /fɪntʃ/ |
+| 41  | enclose         | 围住；附上 /ɪnˈkloʊz/ |
+| 42  | embryo          | 胚胎；雏形 ⚠️ /ˈembrioʊ/ |
+| 43  | confine         | 限制；禁闭 /kənˈfaɪn/ |
+| 44  | canoe           | 独木舟 /kəˈnuː/ |
+| 45  | bronze          | 青铜；青铜色 /brɑːnz/ |
+| 46  | beam            | 横梁；光线 /biːm/ |
+| 47  | attain          | 达到；获得 /əˈteɪn/ |
+| 48  | appreciable     | 明显的；可观的 /əˈpriːʃəbl/ |
+| 49  | appreciate      | 欣赏；感激 /əˈpriːʃieɪt/ |
+| 50  | agent           | 代理人；动因 /ˈeɪdʒənt/ |
+| 51  | turnpike        | 收费公路 /ˈtɜːrnpaɪk/ |

@@ -197,3 +197,116 @@
 - 39. investment
 - 40. investigator
 - 41. investigate
+
+## 2026-04-27
+页码：P.91-105
+
+- 1. graze
+- 2. overgraze
+- 3. derive
+- 4. Dakota
+- 5. barb
+- 6. anthropologist
+- 7. agrarian
+- 8. symptom
+- 9. symbol
+- 10. sought
+- 11. purpose
+- 12. propose
+- 13. magnetosphere
+- 14. intimate
+- 15. imitate
+- 16. glaze
+- 17. geometric
+- 18. extract
+- 19. extraction
+- 20. durable
+- 21. crucial
+- 22. molecule
+- 23. molecular
+- 24. collectively
+- 25. charcoal
+- 26. archaeopteryx
+- 27. acidic ⚠️ /əˈsɪdɪk/
+- 28. acid
+- 29. account for
+- 30. account (v.)
+- 31. satire ⚠️ /ˈsætaɪər/
+- 32. neolithic
+- 33. fluctuate
+- 34. drain
+- 35. drainage
+- 36. arrangement
+- 37. voyager
+- 38. tract
+- 39. revise
+- 40. repress
+- 41. pterosaur
+- 42. mill
+- 43. journeymen
+- 44. gulf
+- 45. excavate
+- 46. engrave
+- 47. cone
+- 48. armet
+- 49. Antarctica
+- 50. alter
+- 51. uniform
+- 52. twig
+- 53. terrain
+- 54. terra
+
+## 2026-04-28
+页码：P.106-130
+
+- 1. substantial
+- 2. speculation
+- 3. speculate
+- 4. specimen
+- 5. seal
+- 6. sandstone
+- 7. realist
+- 8. primate
+- 9. precede
+- 10. unprecedented
+- 11. orchid
+- 12. nucleus ⚠️
+- 13. molt
+- 14. melt
+- 15. moisture
+- 16. Mesozoic
+- 17. intrigue
+- 18. igneous
+- 19. hypothalamus
+- 20. figurine
+- 21. falcon
+- 22. extent
+- 23. dispersal
+- 24. delicate
+- 25. latitude
+- 26. altitude
+- 27. spin
+- 28. reliance
+- 29. phase
+- 30. panel
+- 31. odor
+- 32. Norwegian
+- 33. legislation
+- 34. interaction
+- 35. interact
+- 36. hinterland
+- 37. Harlem
+- 38. freight
+- 39. forage
+- 40. finch
+- 41. enclose
+- 42. embryo ⚠️
+- 43. confine
+- 44. canoe
+- 45. bronze
+- 46. beam
+- 47. attain
+- 48. appreciable
+- 49. appreciate
+- 50. agent
+- 51. turnpike
