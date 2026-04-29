@@ -346,3 +346,9 @@
 - 31. astronomer
 - 32. advent
 - 33. wilderness
+
+
+latitude
+longitude
+altitude
+elevation
