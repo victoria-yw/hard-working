@@ -257,7 +257,7 @@
 - 54. terra
 
 ## 2026-04-28
-页码：P.106-130
+页码：P.106-129
 
 - 1. substantial
 - 2. speculation
@@ -310,3 +310,39 @@
 - 49. appreciate
 - 50. agent
 - 51. turnpike
+
+## 2026-04-29
+页码：P.130-135
+- 1. termite
+- 2. semiskilled
+- 3. roost
+- 4. residential
+- 5. resident
+- 6. reptile
+- 7. regardless
+- 8. pry
+- 9. prosperous
+- 10. pleistocene
+- 11. manipulate
+- 12. lesser
+- 13. larvae ⚠️
+- 14. kiln
+- 15. inscription
+- 16. incubation
+- 17. incorporate
+- 18. imprint
+- 19. groove
+- 20. granite
+- 21. flock
+- 22. fertilizer
+- 23. fertile
+- 24. fertility
+- 25. fertilized
+- 26. excess
+- 27. elevation
+- 28. elaborate
+- 29. census
+- 30. capillary
+- 31. astronomer
+- 32. advent
+- 33. wilderness

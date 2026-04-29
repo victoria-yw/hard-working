@@ -268,7 +268,7 @@
 | 54  | terra           | 土地；大地 /ˈterə/ |
 
 ## 2026-04-28
-页码：P.106-130	
+页码：P.106-129
 |     | 单词            | 含义                              |
 | --- | ------------- | ------------------------------- |
 | 1   | substantial     | 大量的；实质性的 /səbˈstænʃl/ |
@@ -322,3 +322,39 @@
 | 49  | appreciate      | 欣赏；感激 /əˈpriːʃieɪt/ |
 | 50  | agent           | 代理人；动因 /ˈeɪdʒənt/ |
 | 51  | turnpike        | 收费公路 /ˈtɜːrnpaɪk/ |
+
+## 2026-04-29  
+页码：P.130-135
+| 1   | termite         | 白蚁 /ˈtɜːrmaɪt/ |
+| 2   | semiskilled     | 半熟练的 /ˌsemiˈskɪld/ |
+| 3   | roost           | 栖息；栖木 /ruːst/ |
+| 4   | residential     | 住宅的；居住的 /ˌrezɪˈdenʃl/ |
+| 5   | resident        | 居民；住户 /ˈrezɪdənt/ |
+| 6   | reptile         | 爬行动物 /ˈreptl/ |
+| 7   | regardless      | 不管；无论如何 /rɪˈɡɑːrdləs/ |
+| 8   | pry             | 撬动；窥探 /praɪ/ |
+| 9   | prosperous      | 繁荣的；兴旺的 /ˈprɑːspərəs/ |
+| 10  | pleistocene     | 更新世；冰河期 /ˈplaɪstəsiːn/ |
+| 11  | manipulate      | 操纵；巧妙处理 /məˈnɪpjuleɪt/ |
+| 12  | lesser          | 较小的；次要的 /ˈlesər/ |
+| 13  | larvae          | 幼虫（复数）⚠️ /ˈlɑːrviː/ |
+| 14  | kiln            | 窑；炉窑 /kɪln/ |
+| 15  | inscription     | 铭文；刻印 /ɪnˈskrɪpʃn/ |
+| 16  | incubation      | 孵化；培育 /ˌɪŋkjuˈbeɪʃn/ |
+| 17  | incorporate     | 合并；包含 /ɪnˈkɔːrpəreɪt/ |
+| 18  | imprint         | 印记；烙印 /ˈɪmprɪnt/ |
+| 19  | groove          | 凹槽；沟槽 /ɡruːv/ |
+| 20  | granite         | 花岗岩 /ˈɡrænɪt/ |
+| 21  | flock           | 鸟群；羊群；聚集 /flɑːk/ |
+| 22  | fertilizer      | 肥料；化肥 /ˈfɜːrtəlaɪzər/ |
+| 23  | fertile         | 肥沃的；多产的 /ˈfɜːrtl/ |
+| 24  | fertility       | 肥力；繁殖力 /fərˈtɪləti/ |
+| 25  | fertilized      | 已施肥的；受精的 /ˈfɜːrtəlaɪzd/ |
+| 26  | excess          | 过量；多余 /ɪkˈses/ |
+| 27  | elevation       | 海拔；高地 /ˌelɪˈveɪʃn/ |
+| 28  | elaborate       | 详尽的；复杂的 /ɪˈlæbərət/ |
+| 29  | census          | 人口普查；统计 /ˈsensəs/ |
+| 30  | capillary       | 毛细血管；毛细管 /ˈkəpəleri/ |
+| 31  | astronomer      | 天文学家 /əˈstrɑːnəmər/ |
+| 32  | advent          | 来临；出现 /ˈædvent/ |
+| 33  | wilderness      | 荒野；荒地 /ˈwɪldərnəs/ |
