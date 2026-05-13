@@ -354,7 +354,7 @@ altitude
 elevation
 
 ## 2026-05-12
-页码：P.136-145
+页码：P.136-145 
 
 - 1. tundra
 - 2. tile
@@ -375,32 +375,33 @@ elevation
 - 17. mammoth
 - 18. leafy
 - 19. impart
-- 20. geographical
-- 21. furnace
-- 22. fir
-- 23. fairground
-- 24. expedition
-- 25. exert
-- 26. eddy
-- 27. diver
-- 28. dimension
-- 29. cuneiform
-- 30. constituent
-- 31. concur
-- 32. compact
-- 33. circumscribe
-- 34. circumference
-- 35. circulation
-- 36. bulb
-- 37. attribute
-- 38. attribute to
-- 39. ultraviolet
-- 40. supersonic
-- 41. trillion
-- 42. trappings
-- 43. suspend
-- 44. strand
-- 45. staple
+- 20. geographic
+- 21. geographical
+- 22. furnace
+- 23. fir
+- 24. fairground
+- 25. expedition
+- 26. exert
+- 27. eddy
+- 28. diver
+- 29. dimension
+- 30. cuneiform
+- 31. constituent
+- 32. concur
+- 33. compact
+- 34. circumscribe
+- 35. circumference
+- 36. circulation
+- 37. bulb
+- 38. attribute
+- 39. attribute to
+- 40. ultraviolet
+- 41. supersonic
+- 42. trillion
+- 43. trappings
+- 44. suspend
+- 45. strand
+- 46. staple
 
 
 ## 2026-04-29

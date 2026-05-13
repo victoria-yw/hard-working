@@ -385,7 +385,7 @@
 | 8   | reindeer         | 驯鹿 /ˈreɪndɪr/ |
 | 9   | reef             | 礁石；珊瑚礁 /riːf/ |
 | 10  | radically        | 彻底地；根本地 /ˈrædɪkli/ |
-| 11  | propulsion      | 推进；推动力 /prəˈpʌlʃn/ |
+| 11  | propulsion       | 推进；推动力 /prəˈpʌlʃn/ |
 | 12  | pent-up          | 压抑的；积压的 /ˌpent ˈʌp/ |
 | 13  | paleontologist   | 古生物学家 /ˌpeɪliɑːnˈtɑːlədʒɪst/ |
 | 14  | outlet           | 出口；发泄渠道 /ˈaʊtlet/ |
@@ -394,32 +394,33 @@
 | 17  | mammoth          | 猛犸象；巨大的 /ˈmæməθ/ |
 | 18  | leafy            | 多叶的；枝叶繁茂的 /ˈliːfi/ |
 | 19  | impart           | 传授；赋予 /ɪmˈpɑːrt/ |
-| 20  | geographical    | 地理的；地理学的 /ˌdʒiːəˈɡræfɪkl/ |
-| 21  | furnace          | 熔炉；火炉 /ˈfɜːrnɪs/ |
-| 22  | fir              | 冷杉；枞树 /fɜːr/ |
-| 23  | fairground       | 游乐场；露天集市 /ˈferɡraʊnd/ |
-| 24  | expedition       | 远征；探险队 /ˌekspəˈdɪʃn/ |
-| 25  | exert            | 施加；运用 /ɪɡˈzɜːrt/ |
-| 26  | eddy             | 漩涡；涡流 /ˈedi/ |
-| 27  | diver            | 潜水员；跳水者 /ˈdaɪvər/ |
-| 28  | dimension        | 维度；尺寸；方面 /daɪˈmenʃn/ |
-| 29  | cuneiform        | 楔形文字 /ˈkjuːnɪfɔːrm/ |
-| 30  | constituent      | 成分；组成的 /kənˈstɪtjuənt/ |
-| 31  | concur           | 同意；同时发生 /kənˈkɜːr/ |
-| 32  | compact          | 紧凑的；压实 /kəmˈpækt/ |
-| 33  | circumscribe     | 限制；划定边界 /ˈsɜːrkəmskraɪb/ |
-| 34  | circumference    | 周长；圆周 /sərˈkʌmfərəns/ |
-| 35  | circulation      | 循环；流通 /ˌsɜːrkjəˈleɪʃn/ |
-| 36  | bulb             | 灯泡；球茎 /bʌlb/ |
-| 37  | attribute        | 属性；特质 /ˈætrɪbjuːt/ |
-| 38  | attribute to     | 归因于；归咎于 /ˈætrɪbjuːt tuː/ |
-| 39  | ultraviolet      | 紫外线的 /ˌʌltrəˈvaɪələt/ |
-| 40  | supersonic       | 超音速的 /ˌsuːpərˈsɑːnɪk/ |
-| 41  | trillion         | 万亿；兆 /ˈtrɪljən/ |
-| 42  | trappings        | 装饰；外在表象 /ˈtræpɪŋz/ |
-| 43  | suspend          | 悬挂；暂停 /səˈspend/ |
-| 44  | strand           | 搁浅；一缕 /strænd/ |
-| 45  | staple           | 主食；主要产品 /ˈsteɪpl/ |
+| 20  | geographic       | 地理的；地理学的 /ˌdʒiːəˈɡræfɪkl/  |
+| 21  | geographical     | 地理的 /ˌdʒiːəˈɡræfɪk/|
+| 22  | furnace          | 熔炉；火炉 /ˈfɜːrnɪs/ |
+| 23  | fir              | 冷杉；枞树 /fɜːr/ |
+| 24  | fairground       | 游乐场；露天集市 /ˈferɡraʊnd/ |
+| 25  | expedition       | 远征；探险队 /ˌekspəˈdɪʃn/ |
+| 26  | exert            | 施加；运用 /ɪɡˈzɜːrt/ |
+| 27  | eddy             | 漩涡；涡流 /ˈedi/ |
+| 28  | diver            | 潜水员；跳水者 /ˈdaɪvər/ |
+| 29  | dimension        | 维度；尺寸；方面 /daɪˈmenʃn/ |
+| 30  | cuneiform        | 楔形文字 /ˈkjuːnɪfɔːrm/ |
+| 31  | constituent      | 成分；组成的 /kənˈstɪtjuənt/ |
+| 32  | concur           | 同意；同时发生 /kənˈkɜːr/ |
+| 33  | compact          | 紧凑的；压实 /kəmˈpækt/ |
+| 34  | circumscribe     | 限制；划定边界 /ˈsɜːrkəmskraɪb/ |
+| 35  | circumference    | 周长；圆周 /sərˈkʌmfərəns/ |
+| 36  | circulation      | 循环；流通 /ˌsɜːrkjəˈleɪʃn/ |
+| 37  | bulb             | 灯泡；球茎 /bʌlb/ |
+| 38  | attribute        | 属性；特质 /ˈætrɪbjuːt/ |
+| 39  | attribute to     | 归因于；归咎于 /ˈætrɪbjuːt tuː/ |
+| 40  | ultraviolet      | 紫外线的 /ˌʌltrəˈvaɪələt/ |
+| 41  | supersonic       | 超音速的 /ˌsuːpərˈsɑːnɪk/ |
+| 42  | trillion         | 万亿；兆 /ˈtrɪljən/ |
+| 43  | trappings        | 装饰；外在表象 /ˈtræpɪŋz/ |
+| 44  | suspend          | 悬挂；暂停 /səˈspend/ |
+| 45  | strand           | 搁浅；一缕 /strænd/ |
+| 46  | staple           | 主食；主要产品 /ˈsteɪpl/ |
 
 
 ## 2026-05-13
