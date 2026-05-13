@@ -368,3 +368,110 @@
 | longitude | /ˈlɒŋɡɪtjuːd/ | 经度 | 东西方向、纵向经线 | 竖经 long 是长线 |
 | altitude | /ˈæltɪtjuːd/ | 海拔；飞行高度 | 人 / 飞行器空中垂直高度 | 天上的高度 |
 | elevation | /ˌelɪˈveɪʃn/ | 地势海拔；起伏 | 地面地形本身的标高 | 地面的高低 |
+
+
+## 2026-05-12
+页码：P.136-145
+
+|     | 单词             | 含义                                           |
+| --- | ---------------- | ---------------------------------------------- |
+| 1   | tundra           | 冻原；苔原 /ˈtʌndrə/ |
+| 2   | tile             | 瓷砖；瓦片 /taɪl/ |
+| 3   | susceptible      | 易受影响的；易感的 /səˈseptəbl/ |
+| 4   | hypersensitive   | 过度敏感的 /ˌhaɪpərˈsensətɪv/ |
+| 5   | scrub            | 灌木丛；矮树丛 /skrʌb/ |
+| 6   | shrub            | 灌木 /ʃrʌb/ |
+| 7   | resilience       | 复原力；韧性 /rɪˈzɪliəns/ |
+| 8   | reindeer         | 驯鹿 /ˈreɪndɪr/ |
+| 9   | reef             | 礁石；珊瑚礁 /riːf/ |
+| 10  | radically        | 彻底地；根本地 /ˈrædɪkli/ |
+| 11  | propulsion      | 推进；推动力 /prəˈpʌlʃn/ |
+| 12  | pent-up          | 压抑的；积压的 /ˌpent ˈʌp/ |
+| 13  | paleontologist   | 古生物学家 /ˌpeɪliɑːnˈtɑːlədʒɪst/ |
+| 14  | outlet           | 出口；发泄渠道 /ˈaʊtlet/ |
+| 15  | mining           | 采矿；矿业 /ˈmaɪnɪŋ/ |
+| 16  | mine             | 矿山；矿井；采矿 /maɪn/ |
+| 17  | mammoth          | 猛犸象；巨大的 /ˈmæməθ/ |
+| 18  | leafy            | 多叶的；枝叶繁茂的 /ˈliːfi/ |
+| 19  | impart           | 传授；赋予 /ɪmˈpɑːrt/ |
+| 20  | geographical    | 地理的；地理学的 /ˌdʒiːəˈɡræfɪkl/ |
+| 21  | furnace          | 熔炉；火炉 /ˈfɜːrnɪs/ |
+| 22  | fir              | 冷杉；枞树 /fɜːr/ |
+| 23  | fairground       | 游乐场；露天集市 /ˈferɡraʊnd/ |
+| 24  | expedition       | 远征；探险队 /ˌekspəˈdɪʃn/ |
+| 25  | exert            | 施加；运用 /ɪɡˈzɜːrt/ |
+| 26  | eddy             | 漩涡；涡流 /ˈedi/ |
+| 27  | diver            | 潜水员；跳水者 /ˈdaɪvər/ |
+| 28  | dimension        | 维度；尺寸；方面 /daɪˈmenʃn/ |
+| 29  | cuneiform        | 楔形文字 /ˈkjuːnɪfɔːrm/ |
+| 30  | constituent      | 成分；组成的 /kənˈstɪtjuənt/ |
+| 31  | concur           | 同意；同时发生 /kənˈkɜːr/ |
+| 32  | compact          | 紧凑的；压实 /kəmˈpækt/ |
+| 33  | circumscribe     | 限制；划定边界 /ˈsɜːrkəmskraɪb/ |
+| 34  | circumference    | 周长；圆周 /sərˈkʌmfərəns/ |
+| 35  | circulation      | 循环；流通 /ˌsɜːrkjəˈleɪʃn/ |
+| 36  | bulb             | 灯泡；球茎 /bʌlb/ |
+| 37  | attribute        | 属性；特质 /ˈætrɪbjuːt/ |
+| 38  | attribute to     | 归因于；归咎于 /ˈætrɪbjuːt tuː/ |
+| 39  | ultraviolet      | 紫外线的 /ˌʌltrəˈvaɪələt/ |
+| 40  | supersonic       | 超音速的 /ˌsuːpərˈsɑːnɪk/ |
+| 41  | trillion         | 万亿；兆 /ˈtrɪljən/ |
+| 42  | trappings        | 装饰；外在表象 /ˈtræpɪŋz/ |
+| 43  | suspend          | 悬挂；暂停 /səˈspend/ |
+| 44  | strand           | 搁浅；一缕 /strænd/ |
+| 45  | staple           | 主食；主要产品 /ˈsteɪpl/ |
+
+
+## 2026-05-13
+页码：P.146-165
+
+|     | 单词            | 含义                              |
+| --- | --------------- | --------------------------------- |
+| 1   | sap             | 树液；汁液；活力 /sæp/ |
+| 2   | restoration     | 恢复；修复；复位 /ˌrestəˈreɪʃn/ |
+| 3   | reel            | 卷轴；卷盘；摇晃 /riːl/ |
+| 4   | prominent       | 显著的；突出的；杰出的 /ˈprɑːmɪnənt/ |
+| 5   | procedure       | 程序；步骤；手续 /prəˈsiːdʒər/ |
+| 6   | prevalent       | 流行的；普遍的 /ˈprevələnt/ |
+| 7   | predecessor     | 前任；前身；前辈 /ˈpredəsesər/ |
+| 8   | potassium       | 钾 /pəˈtæsiəm/ |
+| 9   | Persian         | 波斯的；波斯人 /ˈpɜːrʒn/ |
+| 10  | perception      | 感知；看法；洞察力 /pərˈsepʃn/ |
+| 11  | notation        | 符号；记法；注释 /noʊˈteɪʃn/ |
+| 12  | niche           | 生态位；壁龛；合适位置 /niːtʃ/ |
+| 13  | meadow          | 草地；牧场 /ˈmedoʊ/ |
+| 14  | manifest        | 表明；显示；明显的 /ˈmænɪfest/ |
+| 15  | magma           | 岩浆 /ˈmæɡmə/ |
+| 16  | legitimate      | 合法的；正当的 /lɪˈdʒɪtɪmət/ |
+| 17  | latent          | 潜在的；潜伏的 /ˈleɪtnt/ |
+| 18  | intricate       | 复杂的；错综复杂的 /ˈɪntrɪkət/ |
+| 19  | initiate        | 发起；创始；启动 /ɪˈnɪʃieɪt/ |
+| 20  | informed        | 有见识的；了解情况的 /ɪnˈfɔːrmd/ |
+| 21  | illumination    | 照明；阐明；启发 /ɪˌluːmɪˈneɪʃn/ |
+| 22  | gull            | 海鸥；欺骗 /ɡʌl/ |
+| 23  | gravel          | 砾石；碎石 /ˈɡrævl/ |
+| 24  | flask           | 烧瓶；细颈瓶 /flæsk/ |
+| 25  | evergreen       | 常绿的；常青树 /ˈevərɡriːn/ |
+| 26  | elliptical      | 椭圆的；省略的 /ɪˈlɪptɪkl/ |
+| 27  | droplet         | 小滴；液滴 /ˈdrɑːplət/ |
+| 28  | domesticate     | 驯养；驯化；使驯服 /dəˈmestɪkeɪt/ |
+| 29  | depletion       | 消耗；损耗；枯竭 /dɪˈpliːʃn/ |
+| 30  | decipher        | 破译；解读；解释 /dɪˈsaɪfər/ |
+| 31  | bureau          | 局；办事处；机构 /ˈbjʊroʊ/ |
+| 32  | bombard         | 轰炸；炮击；大量提问 /bɑːmˈbɑːrd/ |
+| 33  | backup          | 备份；备用；支持 /ˈbækʌp/ |
+| 34  | backbone        | 脊柱；骨干；支柱 /ˈbækboʊn/ |
+| 35  | attracted       | 被吸引的；受影响的 /əˈtræktɪd/ |
+| 36  | aristocrat      | 贵族；上层阶级 /əˈrɪstəkræt/ |
+| 37  | analogy         | 类比；类推；相似之处 /əˈnælədʒi/ |
+| 38  | alpine          | 高山的；阿尔卑斯的 /ˈælpaɪn/ |
+| 39  | alkal           | 碱（alkali 简写）/ˈælkəlaɪ/ |
+| 40  | weave           | 编织；织；编造 /wiːv/ |
+| 41  | woven           | 编织的；纺织的（weave 过去分词）/ˈwoʊvn/ |
+| 42  | workshop        | 车间；工场；研讨会 /ˈwɜːrkʃɑːp/ |
+| 43  | tribal          | 部落的；部族的 /ˈtraɪbl/ |
+| 44  | trance          | 恍惚；出神；迷睡 /træns/ |
+| 45  | trample         | 践踏；踩碎；伤害 /ˈtræmpl/ |
+| 46  | thrust          | 猛推；刺；推力 /θrʌst/ |
+| 47  | thread          | 线；线索；思路 /θred/ |
+| 48  | tannin          | 单宁酸；鞣质 /ˈtænɪn/ |

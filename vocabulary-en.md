@@ -69,6 +69,7 @@
 - 32. continuity
 - 33. celled
 
+
 ## 2026-04-20
 页码：P.31-50
 
@@ -139,8 +140,8 @@
 - 32. disprove
 - 33. tribe
 - 34. groundwater
-- 35. import ⚠️n. /ˈɪmpɔːrt/ v. /ɪmˈpɔːrt/ |
-- 36. export ⚠️n. /ˈekspɔːrt/ v. /ɪkˈspɔːrt/ |
+- 35. import ⚠️n. /ˈɪmpɔːrt/ v. /ɪmˈpɔːrt/
+- 36. export ⚠️n. /ˈekspɔːrt/ v. /ɪkˈspɔːrt/
 - 37. depict
 - 38. atom ⚠️ /ˈætəm/
 - 39. aurora ⚠️ /əˈrɔːrə/
@@ -151,8 +152,7 @@
 - 44. presidential
 - 45. mineral
 
-## 2026-04-26
-页码：P.66-90
+
 ## 2026-04-26
 页码：P.66-90
 
@@ -198,9 +198,9 @@
 - 40. investigator
 - 41. investigate
 
+
 ## 2026-04-27
 页码：P.91-105
-
 - 1. graze
 - 2. overgraze
 - 3. derive
@@ -256,9 +256,9 @@
 - 53. terrain
 - 54. terra
 
+
 ## 2026-04-28
 页码：P.106-129
-
 - 1. substantial
 - 2. speculation
 - 3. speculate
@@ -311,6 +311,7 @@
 - 50. agent
 - 51. turnpike
 
+
 ## 2026-04-29
 页码：P.130-135
 - 1. termite
@@ -336,7 +337,7 @@
 - 21. flock
 - 22. fertilizer
 - 23. fertile
-- 24. fertility
+- 14. fertility
 - 25. fertilized
 - 26. excess
 - 27. elevation
@@ -347,8 +348,109 @@
 - 32. advent
 - 33. wilderness
 
-
 latitude
 longitude
 altitude
 elevation
+
+## 2026-05-12
+页码：P.136-145
+
+- 1. tundra
+- 2. tile
+- 3. susceptible
+- 4. hypersensitive
+- 5. scrub
+- 6. shrub
+- 7. resilience
+- 8. reindeer
+- 9. reef
+- 10. radically
+- 11. propulsion
+- 12. pent-up
+- 13. paleontologist
+- 14. outlet
+- 15. mining
+- 16. mine
+- 17. mammoth
+- 18. leafy
+- 19. impart
+- 20. geographical
+- 21. furnace
+- 22. fir
+- 23. fairground
+- 24. expedition
+- 25. exert
+- 26. eddy
+- 27. diver
+- 28. dimension
+- 29. cuneiform
+- 30. constituent
+- 31. concur
+- 32. compact
+- 33. circumscribe
+- 34. circumference
+- 35. circulation
+- 36. bulb
+- 37. attribute
+- 38. attribute to
+- 39. ultraviolet
+- 40. supersonic
+- 41. trillion
+- 42. trappings
+- 43. suspend
+- 44. strand
+- 45. staple
+
+
+## 2026-04-29
+页码：P.146-165
+
+- 1. sap
+- 2. restoration
+- 3. reel
+- 4. prominent
+- 5. procedure
+- 6. prevalent
+- 7. predecessor
+- 8. potassium
+- 9. Persian
+- 10. perception
+- 11. notation
+- 12. niche
+- 13. meadow
+- 14. manifest
+- 15. magma
+- 16. legitimate
+- 17. latent
+- 18. intricate
+- 19. initiate
+- 20. informed
+- 21. illumination
+- 22. gull
+- 23. gravel
+- 24. flask
+- 25. evergreen
+- 26. elliptical
+- 27. droplet
+- 28. domesticate
+- 29. depletion
+- 30. decipher
+- 31. bureau
+- 32. bombard
+- 33. backup
+- 34. backbone
+- 35. attacted
+- 36. aristocrat
+- 37. analogy
+- 38. alpine
+- 39. alkal
+- 40. weave
+- 41. woven
+- 42. workshop
+- 43. tribal
+- 44. trance
+- 45. trample
+- 46. thrust
+- 47. thread
+- 48. tannin
