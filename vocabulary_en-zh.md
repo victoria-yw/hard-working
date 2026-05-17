@@ -540,3 +540,90 @@
 | 55 | antibiotic         | 抗生素 /ˌæntibaɪˈɑːtɪk/ |
 | 56 | affectional        | 情感的 /əˈfekʃənl/ |
 | 57 | be accustomed to   | 习惯于 /bi əˈkʌstəmd tuː/ |
+
+
+## 2026-05-17
+页码：P.176-185
+
+| 序号 | 单词           | 含义及美式音标                |
+| ---- | -------------- | ---------------------------- |
+| 1    | ward           | 病房；守护；避开 /wɔːrd/     |
+| 2    | tunnel         | 隧道；挖隧道 /ˈtʌnl/         |
+| 3    | translucent    | 半透明的 /trænsˈluːsnt/      |
+| 4    | tongue         | 舌头；语言 /tʌŋ/（读音易错） |
+| 5    | thoroughly     | 彻底地；详尽地 /ˈθɜːroʊli/   |
+| 6    | temporary      | 暂时的；临时的 /ˈtempəreri/  |
+| 7    | tectonics      | 地质构造；构造学 /tekˈtɑːnɪks/|
+| 8    | swept          | 席卷；掠过 /swept/（sweep过去式） |
+| 9    | surpass        | 超过；胜过 /sərˈpæs/         |
+| 10   | sulfur         | 硫磺；硫 /ˈsʌlfər/           |
+| 11   | sulfuric       | 硫酸的；含硫的 /sʌlˈfjʊrɪk/  |
+| 12   | struck         | 攻击；罢工；撞击 /strʌk/     |
+| 13   | sponsor        | 赞助；赞助商；发起 /ˈspɑːnsər/|
+| 14   | spinal         | 脊柱的；脊椎的 /ˈspaɪnl/     |
+| 15   | slab           | 厚石板；厚板 /slæb/           |
+| 16   | tablet         | 药片；牌匾；平板 /ˈtæblət/   |
+| 17   | senate         | 参议院；上议院 /ˈsenət/（读音重点） |
+| 18   | secrete        | 分泌；藏匿 /sɪˈkriːt/         |
+| 19   | realm          | 领域；王国；范围 /relm/      |
+| 20   | putrefy        | 腐烂；化脓 /ˈpjuːtrəfaɪ/     |
+| 21   | presumably     | 大概；想必 /prɪˈzuːməbli/    |
+| 22   | peripheral     | 外围的；次要的 /pəˈrɪfərəl/ |
+| 23   | periphery      | 边缘；外围 /pəˈrɪfəri/       |
+| 24   | pebble         | 鹅卵石；小圆石 /ˈpebl/       |
+| 25   | patch          | 小块地；补丁；斑块 /pætʃ/    |
+| 26   | patchy         | 零散的；斑驳的 /ˈpætʃi/      |
+| 27   | parallel       | 平行的；相似的 /ˈpærəlel/    |
+| 28   | ore            | 矿石；矿砂 /ɔːr/              |
+| 29   | optimal        | 最佳的；最优的 /ˈɑːptɪməl/   |
+| 30   | notion         | 观念；想法；概念 /ˈnoʊʃn/    |
+| 31   | mule           | 骡子 /mjuːl/                 |
+| 32   | mound          | 土堆；小丘 /maʊnd/           |
+| 33   | monumental    | 巨大的；纪念碑式的 /ˌmɑːnjuˈmentl/ |
+| 34   | mold           | 模具；塑造；霉菌 /moʊld/     |
+| 35   | mildew         | 霉；发霉 /ˈmɪlduː/           |
+| 36   | mobility       | 流动性；机动性 /moʊˈbɪləti/  |
+| 37   | millennia      | 数千年（复数）/mɪˈleniə/      |
+| 38   | millennium     | 一千年；千禧年 /mɪˈleniəm/   |
+| 39   | maritime       | 海上的；海事的 /ˈmærɪtaɪm/   |
+| 40   | magnesium     | 镁 /mæɡˈniːziəm/             |
+| 41   | limb           | 四肢；枝干；边缘 /lɪm/       |
+| 42   | interstellar   | 星际的 /ˌɪntərˈstelər/        |
+| 43   | interfere      | 干涉；干扰 /ˌɪntərˈfɪr/      |
+| 44   | intercity      | 城际的；城市间的 /ˌɪntərˈsɪti/ |
+| 45   | integral       | 完整的；不可或缺的 /ˈɪntɪɡrəl/ |
+| 46   | integrate      | 整合；使融合 /ˈɪntɪɡreɪt/    |
+| 47   | intact         | 完好无损的 /ɪnˈtækt/         |
+| 48   | insulation     | 隔热；绝缘；隔离 /ˌɪnsəˈleɪʃn/ |
+| 49   | inscribe       | 铭刻；题写 /ɪnˈskraɪb/       |
+| 50   | incursion      | 入侵；侵入 /ɪnˈkɜːrʒn/       |
+| 51   | invasion       | 侵略；涌入 /ɪnˈveɪʒn/        |
+| 52   | inclination    | 倾向；倾斜；意愿 /ˌɪnklɪˈneɪʃn/ |
+| 53   | incentive      | 激励；动机 /ɪnˈsentɪv/       |
+| 54   | hemlock        | 铁杉；毒芹 /ˈhemlɑːk/        |
+| 55   | hawk           | 鹰；叫卖 /hɔːk/              |
+| 56   | fungal         | 真菌的 /ˈfʌŋɡl/              |
+| 57   | foul           | 污秽的；恶臭的；犯规 /faʊl/  |
+| 58   | formidable     | 强大的；可怕的；难对付的 /ˈfɔːrmɪdəbl/ |
+| 59   | feasible       | 可行的；行得通的 /ˈfiːzəbl/  |
+| 60   | feeble         | 虚弱的；无力的 /ˈfiːbl/      |
+| 61   | exclusively    | 仅仅；唯独；专属地 /ɪkˈskluːsɪvli/ |
+| 62   | ethology       | 动物行为学 /iːˈθɑːlədʒi/     |
+| 63   | epoch          | 时代；纪元；时期 /ˈepək/     |
+| 64   | dull           | 减少；迟钝；沉闷 /dʌl/       |
+| 65   | drastic        | 猛烈的；彻底的 /ˈdræstɪk/    |
+| 66   | drastically    | 大幅度地；彻底地 /ˈdræstɪkli/ |
+| 67   | disseminate    | 传播；散布 /dɪˈsemɪneɪt/     |
+| 68   | descendant     | 后代；后裔 /dɪˈsendənt/      |
+| 69   | crab           | 螃蟹；抱怨 /kræb/            |
+| 70   | contraction    | 收缩；缩减 /kənˈtrækʃn/      |
+| 71   | commonplace   | 平凡的；老生常谈 /ˈkɑːmpləspleɪs/ |
+| 72   | commodities    | 商品；日用品 /kəˈmɑːdətiz/   |
+| 73   | combustible    | 易燃的；可燃物 /kəmˈbʌstəbl/ |
+| 74   | combustion     | 燃烧 /kəmˈbʌstʃən/           |
+| 75   | cohesive       | 有凝聚力的 /koʊˈhiːsɪv/      |
+| 76   | cohesion       | 凝聚力；团结 /koʊˈhiːʒn/     |
+| 77   | cemented       | 接合的；巩固的 /sɪˈmentɪd/    |
+| 78   | broadside      | 侧面；猛烈抨击 /ˈbrɔːdsaɪd/  |
+| 79   | brilliance     | 光辉；才华 /ˈbrɪliəns/       |
+| 80   | botanist       | 植物学家 /ˈbɑːtənɪst/        |
