@@ -405,7 +405,7 @@
 | 28  | diver            | 潜水员；跳水者 /ˈdaɪvər/ |
 | 29  | dimension        | 维度；尺寸；方面 /daɪˈmenʃn/ |
 | 30  | cuneiform        | 楔形文字 /ˈkjuːnɪfɔːrm/ |
-| 31  | constituent      | 成分；组成的 /kənˈstɪtjuənt/ |
+| 31  | constituent      | 成分；组成的；选区，选区居民 /kənˈstɪtjuənt/ |
 | 32  | concur           | 同意；同时发生 /kənˈkɜːr/ |
 | 33  | compact          | 紧凑的；压实 /kəmˈpækt/ |
 | 34  | circumscribe     | 限制；划定边界 /ˈsɜːrkəmskraɪb/ |
@@ -627,3 +627,81 @@
 | 78   | broadside      | 侧面；猛烈抨击 /ˈbrɔːdsaɪd/  |
 | 79   | brilliance     | 光辉；才华 /ˈbrɪliəns/       |
 | 80   | botanist       | 植物学家 /ˈbɑːtənɪst/        |
+
+
+## 2026-05-18
+页码：P.186-205
+
+| 序号 | 单词             | 含义及美式音标                 |
+| ---- | ---------------- | ----------------------------- |
+| 1    | biotic           | 生物相关的 /baɪˈɑːtɪk/        |
+| 2    | archaic          | 古老的；陈旧的 /ɑːrˈkeɪɪk/        |
+| 3    | arbitrary        | 随意的；武断的 /ˈɑːrbətreri/      |
+| 4    | word             | 措辞；表达(v.) /wɜːrd/          |
+| 5    | worded           | 措辞得当的 /ˈwɜːrdɪd/         |
+| 6    | wedging          | 楔入；挤入 /ˈwedʒɪŋ/            |
+| 7    | Vancouver        | 温哥华 /vænˈkuːvər/           |
+| 8    | transparent      | 透明的；易懂的 /trænsˈpærənt/     |
+| 9    | thoughtful       | 深思的；体贴的 /ˈθɔːtfl/          |
+| 10   | territory        | 领土；领域 /ˈterətɔːri/         |
+| 11   | tenant           | 租户；承租人 /ˈtenənt/          |
+| 12   | antenna          | 触角；天线 /ænˈtenə/            |
+| 13   | temper           | 脾气；缓和；金属回火 /ˈtempər/ |
+| 14   | tapestry         | 挂毯；织锦 /ˈtæpəstri/          |
+| 15   | supreme          | 至高无上的 /suːˈpriːm/        |
+| 16   | supplant         | 取代；排挤 v./səˈplænt/           |
+| 17   | sulfate          | 硫酸盐 /ˈsʌlfeɪt/             |
+| 18   | stoneware        | 粗陶器 /ˈstoʊnwer/           |
+| 19   | stalk            | 茎干；潜行靠近 /stɔːk/        |
+| 20   | spun             | 纺纱；旋转(spin过去式) /spʌn/ |
+| 21   | spill            | 溢出；洒落 /spɪl/               |
+| 22   | solemn           | 庄严的；肃穆的 /ˈsɑːləm/          |
+| 23   | sociobiology     | 社会生物学 /ˌsoʊsioʊbaɪˈɑːlədʒi/ |
+| 24   | snowfall         | 降雪量；降雪 /ˈsnoʊfɔːl/        |
+| 25   | slick            | 光滑的；圆滑的 /slɪk/              |
+| 26   | sketch           | 草图；简述勾勒 /sketʃ/         |
+| 27   | stretch          | 伸展；延伸 /stretʃ/             |
+| 28   | silt             | 淤泥泥沙 /sɪlt/                |
+| 29   | Sierra-Nevada    | 内华达山脉 /siˈerə nəˈvædə/   |
+| 30   | seemingly        | 表面上地；看似 /ˈsiːmɪŋli/      |
+| 31   | sedentary        | 久坐不动的；定居的 /ˈsednteri/ |
+| 32   | scurry           | 疾跑；匆匆奔走 /ˈskɜːri/         |
+| 33   | rudimentary      | 基础的；初步的 /ˌruːdɪˈmentri/     |
+| 34   | replenish        | 补充；补足 /rɪˈplenɪʃ/          |
+| 35   | regulatory       | 监管调控的 /ˈreɡjələtɔːri/     |
+| 36   | rear             | 后方；养育饲养 /rɪr/           |
+| 37   | radius           | 半径；范围 /ˈreɪdiəs/         |
+| 38   | radiation        | 辐射放射线 /ˌreɪdiˈeɪʃn/      |
+| 39   | prone            | 倾向于；俯卧的 /proʊn/        |
+| 40   | probable         | 很有可能的 /ˈprɑːbəbl/        |
+| 41   | prestige         | 名望；声望 /preˈstiːʒ/          |
+| 42   | practitioner     | 从业者；执业者 /prækˈtɪʃənər/   |
+| 43   | plumbing         | 管道工程；水暖业 /ˈplʌmɪŋ/      |
+| 44   | peregrine        | 外来的；游隼 /ˈperəɡrɪn/      |
+| 45   | pamphlet         | 小册子；短篇；手册 /ˈpæmflət/     |
+| 46   | outlying         | 偏远的；外围的 /ˈaʊtlaɪɪŋ/        |
+| 47   | outermost        | 最外层的；最远的 /ˈaʊtərmoʊst/     |
+| 48   | otter            | 水獭 /ˈɑːtər/                  |
+| 49   | obsidian         | 黑曜石 /əbˈsɪdiən/            |
+| 50   | numerical        | 数字的；数值的 /nuːˈmerɪkl/        |
+| 51   | notwithstanding  | 尽管；虽然 /ˌnɑːtwɪðˈstændɪŋ/   |
+| 52   | norm             | 规范；标准；常态 /nɔːrm/           |
+| 53   | moth             | 飞蛾；蛾类 /mɔːθ/                |
+| 54   | minuscule        | 极小的；微小的 /ˈmɪnəskjuːl/      |
+| 55   | mild             | 温和的；低碳钢的 /maɪld/       |
+| 56   | metabolism (重音) | 新陈代谢 /məˈtæbəlɪzəm/（重音第二音节） |
+| 57   | Mesopotamia      | 美索不达米亚 /ˌmesəpəˈteɪmiə/ |
+| 58   | Mesopotamian     | 美索不达米亚的 /ˌmesəpəˈteɪmiən/ |
+| 59   | maser            | 微波激射器 /ˈmeɪzər/           |
+| 60   | marsh            | 沼泽；湿地 /mɑːrʃ/               |
+| 61   | mallet           | 木槌；短槌 /ˈmælɪt/              |
+| 62   | lug              | 拖拽用力拉 /lʌɡ/               |
+| 63   | locomotive       | 机车头；火车头 /ˌloʊkəˈmoʊtɪv/    |
+| 64   | locomotion       | 移动；运动能力 /ˌloʊkəˈmoʊʃn/   |
+| 65   | lithospheric     | 岩石圈的 /ˌlɪθoʊˈsfɪrɪk/       |
+| 66   | lament (读音)     | 惋惜；哀悼 /ləˈment/             |
+| 67   | kerosene         | 煤油；火油 /ˈkerəsiːn/           |
+| 68   | journal          | 期刊；日记日志 /ˈdʒɜːrnl/     |
+| 69   | journalist       | 新闻记者 /ˈdʒɜːrnəlɪst/        |
+| 70   | journalism       | 新闻学；新闻业 /ˈdʒɜːrnəlɪzəm/  |
+| 71   | indispensable    | 不可或缺的；必需的 /ˌɪndɪˈspensəbl/ |
