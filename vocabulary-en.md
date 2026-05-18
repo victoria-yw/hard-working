@@ -525,7 +525,7 @@ elevation
 - 1. ward
 - 2. tunnel v
 - 3. translucent
-- 4. tongue（读音）
+- 4. tongue（⚠️读音）
 - 5. thoroughly
 - 6. temporary
 - 7. tectonics
@@ -538,7 +538,7 @@ elevation
 - 14. spinal
 - 15. slab
 - 16. tablet
-- 17. senate（读音）
+- 17. senate（⚠️读音）
 - 18. secrete
 - 19. realm
 - 20. putrefy
@@ -602,3 +602,79 @@ elevation
 - 78. broadside
 - 79. brilliance
 - 80. botanist
+
+
+## 2026-05-18
+页码：P.186-205
+
+- 1. biotic
+- 2. archaic
+- 3. arbitrary
+- 4. word（动词）
+- 5. worded
+- 6. wedging
+- 7. Vancouver
+- 8. transparent
+- 9. thoughtful
+- 10. territory
+- 11. tenant
+- 12. antenna
+- 13. temper（脾气；调剂；回火；使缓和）
+- 14. tapestry
+- 15. supreme
+- 16. supplant
+- 17. sulfate
+- 18. stoneware
+- 19. stalk
+- 20. spun
+- 21. spill
+- 22. solemn
+- 23. sociobiology
+- 24. snowfall
+- 25. slick
+- 26. sketch
+- 27. stretch
+- 28. silt
+- 29. Sierra-Nevada
+- 30. seemingly
+- 31. sedentary
+- 32. scurry
+- 33. rudimentary
+- 34. replenish
+- 35. regulatory
+- 36. rear
+- 37. radius
+- 38. radiation
+- 39. prone
+- 40. probable
+- 41. prestige
+- 42. practitioner
+- 43. plumbing
+- 44. peregrine（外来的、游隼）
+- 45. pamphlet
+- 46. outlying
+- 47. outermost
+- 48. otter
+- 49. obsidian
+- 50. numerical
+- 51. notwithstanding
+- 52. norm
+- 53. moth
+- 54. minuscule
+- 55. mild（钢低碳的）
+- 56. metabolism（重音位置注意）
+- 57. Mesopotamia
+- 58. Mesopotamian
+- 59. maser
+- 60. marsh
+- 61. mallet（读音）
+- 62. lug
+- 63. locomotive
+- 64. locomotion
+- 65. lithospheric
+- 66. lament
+- 67. kerosene
+- 68. journal
+- 69. journalist
+- 70. journalism
+- 71. indispensable
