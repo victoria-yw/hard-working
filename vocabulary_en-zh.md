@@ -705,3 +705,75 @@
 | 69   | journalist       | 新闻记者 /ˈdʒɜːrnəlɪst/        |
 | 70   | journalism       | 新闻学；新闻业 /ˈdʒɜːrnəlɪzəm/  |
 | 71   | indispensable    | 不可或缺的；必需的 /ˌɪndɪˈspensəbl/ |
+
+
+## 2026-05-20
+页码：P.206-215
+
+| 序号 | 单词         | 含义及美式音标 |
+| ---- | ------------ | -------------- |
+| 1    | incident      | 事件；事变 /ˈɪnsɪdənt/ |
+| 2    | incidental    | 附带的；偶然的 /ˌɪnsɪˈdentl/ |
+| 3    | implication   | 暗示；含意；牵连 /ˌɪmplɪˈkeɪʃn/ |
+| 4    | ignite        | 点燃；引发 /ɪɡˈnaɪt/ |
+| 5    | humanitarian  | 人道主义的 /hjuːˌmænɪˈteriən/ |
+| 6    | host          | 大量、许多a host of = a large number；主人、宿主、主持 /hɑːts/ |
+| 7    | hibernate     | 冬眠；蛰伏 /ˈhaɪbərneɪt/ |
+| 8    | hazard        | 危险；冒险 /ˈhæzərd/（⚠️注意读音） |
+| 9    | guncotton     | 火棉；硝化棉 /ˈɡʌnkɑːtn/ |
+| 10   | gosling       | 小鹅 /ˈɡɑːzlɪŋ/（⚠️注意读音） |
+| 11   | gin           | 杜松子酒 /dʒɪn/（⚠️注意读音） |
+| 12   | gigantic      | 巨大的；庞大的 /dʒaɪˈɡæntɪk/（⚠️注意读音） |
+| 13   | formula       | 公式；配方；准则 /ˈfɔːrmjələ/ |
+| 14   | fortuitous    | 偶然的；幸运的 /fɔːrˈtuːətəs/ |
+| 15   | flush         | 齐平的；冲洗 /flʌʃ/ |
+| 16   | fluid         | 流体；流畅的 /ˈfluːɪd/ |
+| 17   | feldspar      | 长石 /ˈfeldspɑːr/ |
+| 18   | fathom        | 英寻；彻底理解 /ˈfæðəm/ |
+| 19   | facilitate    | 促进；使便利 /fəˈsɪlɪteɪt/ |
+| 20   | expedition    | 远征；探险队 /ˌekspəˈdɪʃn/ |
+| 21   | expenditure   | 开支；消费 /ɪkˈspendɪtʃər/ |
+| 22   | ethnic        | 种族的；民族的 /ˈeθnɪk/ |
+| 23   | envision      | 想象；展望 /ɪnˈvɪʒn/ |
+| 24   | enveloped     | 被包围的；包裹的 /ɪnˈveləpt/ |
+| 25   | ember         | 灰烬；余火 /ˈembər/ |
+| 26   | dynamic       | 动力的；动态的；动力学的 /daɪˈnæmɪk/ |
+| 27   | dynamics      | 动力学；动态 /daɪˈnæmɪks/ |
+| 28   | dotted        | 点状的；布满的 /ˈdɑːtɪd/ |
+| 29   | disturb       | 打扰；妨碍 /dɪˈstɜːrb/ |
+| 30   | disrupt       | 扰乱；使中断 /dɪsˈrʌpt/ |
+| 31   | devoid        | 缺乏的；全无的 /dɪˈvɔɪd/ |
+| 32   | designate     | 指定；命名 /ˈdezɪɡneɪt/ |
+| 33   | descend       | 下降；降临 /dɪˈsend/ |
+| 34   | deforest      | 砍伐森林；毁林 /diˈfɔːrɪst/ |
+| 35   | dedicate      | 奉献；致力于 /ˈdedɪkeɪt/ |
+| 36   | delicate      | 精美的；易碎的；微妙的 /ˈdelɪkət/ |
+| 37   | deception     | 欺骗；骗局 /dɪˈsepʃn/ |
+| 38   | crevice       | 裂缝；裂隙 /ˈkrevɪs/ |
+| 39   | cranial       | 颅的；头盖骨的 /ˈkreɪniəl/ |
+| 40   | cramp         | 痉挛；束缚 /kræmp/ |
+| 41   | counterpart   | 对应物；对手方 /ˈkaʊntərpɑːrt/ |
+| 42   | cape          | 海角；披肩 /keɪp/ |
+| 43   | cope          | 应对；处理 /koʊp/ |
+| 44   | conifer       | 针叶树 /ˈkoʊnɪfər/ |
+| 45   | concert       | 音乐会；协作 /ˈkɑːnsərt/ |
+| 46   | coach         | 教练；长途汽车 /koʊtʃ/ |
+| 47   | clan          | 宗族；部落；集团 /klæn/ |
+| 48   | chlorophyll   | 叶绿素 /ˈklɔːrəfɪl/ |
+| 49   | chisel        | 凿子；凿 /ˈtʃɪzl/ |
+| 50   | champion      | 冠军；捍卫者 /ˈtʃæmpiən/ |
+| 51   | cedar         | 雪松；杉木 /ˈsiːdər/ |
+| 52   | caste         | 种姓；社会等级 /kæst/ |
+| 53   | bovine        | 牛的；迟钝的 /ˈboʊvaɪn/ |
+| 54   | boulder       | 巨石；大圆石 /ˈboʊldər/ |
+| 55   | beak          | 鸟嘴；喙 /biːk/ |
+| 56   | archaeocyte   | 原始细胞 /ɑːrˈkiːəsaɪt/ |
+| 57   | arcade        | 拱廊；商业街 /ɑːrˈkeɪd/ |
+| 58   | arboreal      | 树木的；栖于树的 /ɑːrˈbɔːriəl/ |
+| 59   | adept         | 熟练的；能手 /əˈdept/ |
+| 60   | yield         | 产生；屈服；产量 /jiːld/ |
+| 61   | woodpecker    | 啄木鸟 /ˈwʊdpekər/ |
+| 62   | wire          | 金属线；电线 /ˈwaɪər/ |
+| 63   | whereby       | 凭借；通过…方式 /werˈbaɪ/ |
+| 64   | warehouse     | 仓库；货栈 /ˈwerhaʊs/ |
+| 65   | viscosity     | 黏性；粘度 /vɪˈskɑːsəti/ |
