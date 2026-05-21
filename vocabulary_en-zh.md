@@ -777,3 +777,85 @@
 | 63   | whereby       | 凭借；通过…方式 /werˈbaɪ/ |
 | 64   | warehouse     | 仓库；货栈 /ˈwerhaʊs/ |
 | 65   | viscosity     | 黏性；粘度 /vɪˈskɑːsəti/ |
+
+
+## 2026-05-21
+页码：P.216-225
+
+| 序号 | 单词             | 含义及美式音标                          |
+| ---- | ---------------- | -------------------------------------- |
+| 1    | vine             | 藤本植物；藤蔓 /vaɪn/                  |
+| 2    | vent             | 通风口；发泄 /vent/                    |
+| 3    | turbulent        | 动荡的；汹涌的 /ˈtɜːrbjələnt/         |
+| 4    | tributary        | 支流；附属的 /ˈtrɪbjəteri/            |
+| 5    | transmission     | 传递；传播；传输；变压器 /trænzˈmɪʃn/         |
+| 6    | trample          | 践踏；蹂躏 /ˈtræmpl/                   |
+| 7    | torque           | 扭矩；转矩 /tɔːrk/                     |
+| 8    | toll             | 通行费；伤亡人数；鸣钟 /toʊl/          |
+| 9    | tobacco          | 烟草；烟叶 /təˈbækoʊ/                 |
+| 10   | thereafter       | 此后；其后 /ˌðerˈæftər/                |
+| 11   | textbook         | 课本；规范的 /ˈtekstbʊk/              |
+| 12   | terrace          | 梯田；露台 /ˈterəs/                    |
+| 13   | terminology      | 术语；专业用语 /ˌtɜːrməˈnɑːlədʒi/      |
+| 14   | tentatively      | 试探性地；暂定地 /ˈtentətɪvli/         |
+| 15   | tentacle         | 触手；触角 /ˈtentəkl/                  |
+| 16   | tenfold          | 十倍的；十倍地 /ˈtenfoʊld/             |
+| 17   | televise         | 电视播送；摄制电视节目 /ˈtelɪvaɪz/     |
+| 18   | tap              | 轻敲；开发；水龙头 /tæp/               |
+| 19   | synthesize       | 合成；综合 /ˈsɪnθəsaɪz/                |
+| 20   | suppress         | 压制；抑制；封锁 /səˈpres/             |
+| 21   | superheat        | 使过热；过热状态 /ˌsuːpərˈhiːt/        |
+| 22   | succulent       | 多汁的；肉质植物 /ˈsʌkjələnt/          |
+| 23   | semisubsistence  | 半自给自足 /ˌsemiˈsʌbsɪstəns/         |
+| 24   | subsidize        | 资助；补贴 /ˈsʌbsɪdaɪz/                |
+| 25   | subside          | 平息；下沉；减弱 /səbˈsaɪd/            |
+| 26   | subscribe        | 订阅；赞同；认购 /səbˈskraɪb/          |
+| 27   | stationary       | 静止的；固定的 /ˈsteɪʃənri/            |
+| 28   | startling        | 惊人的；骇人的 /ˈstɑːrtlɪŋ/            |
+| 29   | stagnant         | 停滞的；萧条的 /ˈstæɡnənt/             |
+| 30   | squander         | 挥霍；浪费 /ˈskwɑːndər/                |
+| 31   | sprawl           | 蔓延；杂乱扩展 /sprɔːl/                |
+| 32   | sprang           | 跳起；涌现（spring过去式）/spræŋ/      |
+| 33   | spectator        | 旁观者；观众 /ˈspekteɪtər/             |
+| 34   | spectacular      | 壮观的；惊人的 /spekˈtækjələr/         |
+| 35   | spearhead        | 先锋；带头推进 /ˈspɪrhed/              |
+| 36   | spear            | 矛；刺；戳 /spɪr/                      |
+| 37   | spark            | 火花；引发 /spɑːrk/                    |
+| 38   | sodium           | 钠 /ˈsoʊdiəm/                          |
+| 39   | soak             | 浸泡；浸透 /soʊk/                      |
+| 40   | snap             | 折断；猛地咬住；抓拍 /snæp/            |
+| 41   | slush            | 融雪泥；烂泥 /slʌʃ/                    |
+| 42   | slate            | 石板；拟定；斥责 /sleɪt/               |
+| 43   | silicon          | 硅 /ˈsɪlɪkən/                          |
+| 44   | shale            | 页岩 /ʃeɪl/                            |
+| 45   | sensory          | 感官的；知觉的 /ˈsensəri/              |
+| 46   | seep             | 渗漏；渗透 /siːp/                      |
+| 47   | secular          | 世俗的；非宗教的 /ˈsekjələr/           |
+| 48   | religious        | 宗教的；虔诚的 /rɪˈlɪdʒəs/            |
+| 49   | scavenger        | 食腐动物；拾荒者 /ˈskævɪndʒər/        |
+| 50   | Rockies          | 落基山脉 /ˈrɑːkiz/                     |
+| 51   | ridiculous       | 荒谬的；可笑的 /rɪˈdɪkjələs/           |
+| 52   | revere           | 崇敬；敬畏 /rɪˈvɪr/                    |
+| 53   | retract          | 撤回；缩回 /rɪˈtrækt/                  |
+| 54   | repertoire       | 全部剧目；全套技能 /ˈrepərtwɑːr/       |
+| 55   | render           | 致使；提供；渲染 /ˈrendər/             |
+| 56   | regolith         | 表岩屑；风化层 /ˈreɡəlɪθ/              |
+| 57   | refine           | 精炼；改善；提纯 /rɪˈfaɪn/             |
+| 58   | recruitment      | 招募；招聘 /rɪˈkruːtmənt/              |
+| 59   | receptor         | 感受器；受体 /rɪˈseptər/               |
+| 60   | rebound          | 反弹；回升 /rɪˈbaʊnd/                  |
+| 61   | reaped           | 收获；取得（reap过去式）/riːpt/        |
+| 62   | raft             | 木筏；橡皮艇 /ræft/                    |
+| 63   | quarry           | 采石场；猎物；追寻 /ˈkwɔːri/           |
+| 64   | purification     | 净化；提纯 /ˌpjʊrɪfɪˈkeɪʃn/            |
+| 65   | protrude         | 突出；伸出 /proʊˈtruːd/                |
+| 66   | prose            | 散文；平淡文笔 /proʊz/                 |
+| 67   | prodigious       | 巨大的；惊人的 /prəˈdɪdʒəs/            |
+| 68   | proceed          | 继续进行；着手 /proʊˈsiːd/             |
+| 69   | prizefight       | 职业拳击赛 /ˈpraɪzfaɪt/                |
+| 70   | prerecord        | 预先录制 /ˌpriːrɪˈkɔːrd/                |
+| 71   | porpoise         | 鼠海豚 /ˈpɔːrpəs/                      |
+| 72   | plutonic         | 深成岩的；冥府的 /pluːˈtɑːnɪk/         |
+| 73   | Plutonian        | 冥王星的；阴森的 /pluːˈtoʊniən/        |
+| 74   | plugged          | 堵塞的；插入的 /plʌɡd/                 |
+| 75   | plow             | 犁；耕地；破浪前行 /plaʊ/              |
